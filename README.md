@@ -1,4 +1,4 @@
-# DP-600 Exam Study Guide
+# DP-600 Exam Study Guide - Preparation By Rameshkumar Anga
 
 ## Overview
 The **DP-600: Implementing Analytics Solutions Using Microsoft Fabric** exam validates your ability to design, build, and manage analytics solutions using Microsoft Fabric. It focuses on integrating data from multiple sources, creating semantic models, and delivering insights through Power BI.
